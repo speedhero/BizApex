@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.apex.presistence.mapper.Prd_CustomMapper">
+  <resultMap id="BaseResultMap" type="com.apex.presistence.beans.Prd_Custom">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="ID" jdbcType="DECIMAL" property="id" />
+    <result column="IS_NEED_VIP" jdbcType="DECIMAL" property="isNeedVip" />
+    <result column="VIP_USER" jdbcType="DECIMAL" property="vipUser" />
+    <result column="PRD_TYPE" jdbcType="DECIMAL" property="prdType" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    ID, IS_NEED_VIP, VIP_USER, PRD_TYPE
+  </sql>
+</mapper>

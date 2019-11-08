@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="exoplatform.commons-1.0">
+    <CLASSES>
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.commons-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.container-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.portal.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.portal.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.portlet-framework.exomvc-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.portlet-framework.jsf-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.portlet-framework.struts-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.backup.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.backup.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.common.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.common.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.database.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.database.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.id-generator.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.id-generator.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.ldap.api.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.ldap.impl.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.organization.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.organization.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.portal.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.portal.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.portlet-container.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.portlet-container.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.portlet-registry.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.portlet-registry.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.resources.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.resources.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.security.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.security.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.xml-processing.api-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/exoplatform.services.xml-processing.impl-1.0.jar!/" />
+      <root url="jar://G:/LiveBOS_TomcatTIANMA/lib/jsf-api-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

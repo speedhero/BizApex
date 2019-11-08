@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://G:/LiveBOS_TomcatTIANMA/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://G:/LiveBOS_TomcatTIANMA/lib" />
+    </SOURCES>
+    <jarDirectory url="file://G:/LiveBOS_TomcatTIANMA/lib" recursive="false" />
+    <jarDirectory url="file://G:/LiveBOS_TomcatTIANMA/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

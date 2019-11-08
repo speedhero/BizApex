@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/Account.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/AccountService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/DemoController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/bussiness/consts/CommonConst.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/bussiness/consts/DateConst.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/bussiness/consts/FileConst.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/bussiness/enums/ResponseStatus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/controller/IndexController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/apex/util/Md5Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/default-object.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/demo-portlet.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/portlet-instances.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-form.tld" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring.tld" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="UTF-8" />
+  </component>
+</project>
